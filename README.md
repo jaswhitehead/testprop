@@ -1,2 +1,0 @@
-# testprop
-Heroku Deployment Testing
